@@ -5,16 +5,16 @@
 
 Welcome to Coding with Kids!
 ============================
-Coding with kids can be a great
+Coding with kids can be a *great*
 way to not only teach them some skills
 that will help them with their
-own lives, but will also create or
-strengthen some lasting bonds
-between you and them.
+own lives, but will also
+*create or strengthen* some lasting
+**bonds between you and them.**
 
 Throughout your journey you will
-both likely learn new concepts and
-terms that will expand your horizons
+both likely learn new ``concepts`` and
+``terms`` that will expand your horizons
 and provide hours of enjoyment.
 
 .. toctree::
