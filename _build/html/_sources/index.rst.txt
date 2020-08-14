@@ -9,13 +9,18 @@ Hello world!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
+   :caption: Options:
 
+   Options/justlogic
+   Options/justcode
+   Options/justhardware
+   Options/hardwareandcode
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Guidelines:
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Guidelines/content
+   Guidelines/workflow
