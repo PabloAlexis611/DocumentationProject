@@ -1,8 +1,20 @@
 Just Logic
 ++++++++++
+All of the options below involve no
+screens at all -- they are simply physical
+objects and some problems to be solved
 
 Key Goals
 =========
+The main goals regarding ``logic`` that you
+might pursue with some of the options below
+are as follows:
+
+* **Undestand** basic logic
+    * *Really, you have to.*
+* Use available options
+* Apply problem solving techniques
+* Have fun! :)
 
 Options
 =======
